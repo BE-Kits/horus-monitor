@@ -113,6 +113,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [nightingale #Project#](https://github.com/didi/nightingale): A Distributed and High-Performance Monitoring System
 
+## Web Error Tracking
+
+- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
+
+- [bugsnag-js #Project#](https://github.com/bugsnag/bugsnag-js): Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors. 
+
+- [Perry](https://github.com/perry-js/perry): Painless and agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily.
+
+- [Polly.JS](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions. 
+
 ## Copyright & More | 延伸阅读
 
 笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。您还可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
