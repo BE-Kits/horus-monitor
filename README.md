@@ -11,7 +11,7 @@
     <img src="https://s2.ax1x.com/2020/03/08/3zDTv8.md.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Horus Monitor</h3>
+  <h3 align="center">UEME APM - Horus Monitor</h3>
 
   <p align="center">
     Automation & DevOps
