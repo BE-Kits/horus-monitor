@@ -11,7 +11,7 @@
     <img src="https://s2.ax1x.com/2020/03/08/3zDTv8.md.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Horus Monitor</h3>
+  <h3 align="center">UEME APM - Horus Monitor</h3>
 
   <p align="center">
     Automation & DevOps
@@ -112,6 +112,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [2020-Monitoror #Project#](https://github.com/monitoror/monitoror): Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 
 - [nightingale #Project#](https://github.com/didi/nightingale): A Distributed and High-Performance Monitoring System
+
+- [2020-Doraemon #Project#](https://github.com/Qihoo360/doraemon): Doraemon is a Prometheus based monitor system ,which are made up of three components——the Rule Engine,the Alert Gateway and the Web-UI.Instead of configuring alarm rules in config file,this system can configure alarm rules dynamically through the Web-UI and integrates many customized alarm functions.
+
+### Web Error Tracking
+
+- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
+
+- [bugsnag-js #Project#](https://github.com/bugsnag/bugsnag-js): Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors. 
+
+- [Perry](https://github.com/perry-js/perry): Painless and agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily.
+
+- [Polly.JS](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions. 
+
+- [Rollbar.js](https://github.com/rollbar/rollbar.js): Error tracking and logging from JS to Rollbar.
 
 ## Copyright & More | 延伸阅读
 
