@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BE-Kits/horus-monitor">
+  <a href="https://github.com/wx-chevalier/horus-monitor">
     <img src="https://s2.ax1x.com/2020/03/08/3zDTv8.md.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     Automation & DevOps
     <br />
-    <a href="https://github.com/BE-Kits/horus-monitor"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/horus-monitor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BE-Kits/horus-monitor">View Demo</a>
+    <a href="https://github.com/wx-chevalier/horus-monitor">View Demo</a>
     ·
-    <a href="https://github.com/BE-Kits/horus-monitor/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/horus-monitor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BE-Kits/horus-monitor/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/horus-monitor/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,7 +35,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`BE-Kits`, `horus-monitor`, `twitter_handle`, `email`
+`wx-chevalier`, `horus-monitor`, `twitter_handle`, `email`
 
 ## Nav | 导航
 
@@ -58,7 +58,7 @@ npm install npm@latest -g
 1. Clone the horus-monitor
 
 ```sh
-git clone https://github.com/BE-Kits/horus-monitor.git
+git clone https://github.com/wx-chevalier/horus-monitor.git
 ```
 
 2. Install NPM packages
@@ -81,7 +81,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/BE-Kits/horus-monitor/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wx-chevalier/horus-monitor/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -122,13 +122,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/BE-Kits/horus-monitor.svg?style=flat-square
-[contributors-url]: https://github.com/BE-Kits/horus-monitor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BE-Kits/horus-monitor.svg?style=flat-square
-[forks-url]: https://github.com/BE-Kits/horus-monitor/network/members
-[stars-shield]: https://img.shields.io/github/stars/BE-Kits/horus-monitor.svg?style=flat-square
-[stars-url]: https://github.com/BE-Kits/horus-monitor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BE-Kits/horus-monitor.svg?style=flat-square
-[issues-url]: https://github.com/BE-Kits/horus-monitor/issues
-[license-shield]: https://img.shields.io/github/license/BE-Kits/horus-monitor.svg?style=flat-square
-[license-url]: https://github.com/BE-Kits/horus-monitor/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/horus-monitor.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/horus-monitor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/horus-monitor.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/horus-monitor/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/horus-monitor.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/horus-monitor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/horus-monitor.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/horus-monitor/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/horus-monitor.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/horus-monitor/blob/master/LICENSE.txt
